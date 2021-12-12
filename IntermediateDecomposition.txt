@@ -1,0 +1,72 @@
+Mesh Thread#6
+Rotated Point X: 1.000000, Point Y: 0.000000, Point Z: 1.000000--> Point X: 0.495364,Point Y: 0.868686,Point Z: 0.868686 About the Z Axis.
+Mesh Thread#4
+Rotated Point X: 1.000000, Point Y: 0.000000, Point Z: 0.000000--> Point X: 0.495364,Point Y: 0.868686,Point Z: 0.868686 About the Z Axis.
+Mesh Thread#0
+Rotated Point X: 1.000000, Point Y: 0.000000, Point Z: 1.000000--> Point X: 0.495364,Point Y: 0.868686,Point Z: 0.868686 About the Z Axis.
+Mesh Thread#6
+Rotated Point X: 0.495364, Point Y: 0.868686, Point Z: 1.000000--> Point X: -0.073979,Point Y: 0.868686,Point Z: 0.868686 About the ZX Axis.
+Mesh Thread#4
+Rotated Point X: 0.495364, Point Y: 0.868686, Point Z: 0.000000--> Point X: 0.428334,Point Y: 0.868686,Point Z: 0.868686 About the ZX Axis.
+Mesh Thread#6
+Translated Point X: -0.073979, Point Y: 0.868686, Point Z: 4.113513--> Point X: -0.008430,Point Y: 0.105589,Point Z: 0.105589
+Mesh Thread#0
+Rotated Point X: 0.495364, Point Y: 0.868686, Point Z: 1.000000--> Point X: -0.073979,Point Y: 0.868686,Point Z: 0.868686 About the ZX Axis.
+Mesh Thread#4
+Translated Point X: 0.428334, Point Y: 0.868686, Point Z: 3.248827--> Point X: 0.061801,Point Y: 0.133692,Point Z: 0.133692
+Mesh Thread#0
+Translated Point X: -0.073979, Point Y: 0.868686, Point Z: 4.113513--> Point X: -0.008430,Point Y: 0.105589,Point Z: 0.105589
+Mesh Thread#7
+Rotated Point X: 1.000000, Point Y: 0.000000, Point Z: 1.000000--> Point X: 0.495364,Point Y: 0.868686,Point Z: 0.868686 About the Z Axis.
+Mesh Thread#2
+Rotated Point X: 0.000000, Point Y: 0.000000, Point Z: 0.000000--> Point X: 0.000000,Point Y: 0.000000,Point Z: 0.000000 About the Z Axis.
+Mesh Thread#7
+Rotated Point X: 0.495364, Point Y: 0.868686, Point Z: 1.000000--> Point X: -0.073979,Point Y: 0.868686,Point Z: 0.868686 About the ZX Axis.
+Mesh Thread#1
+Rotated Point X: 1.000000, Point Y: 0.000000, Point Z: 1.000000--> Point X: 0.495364,Point Y: 0.868686,Point Z: 0.868686 About the Z Axis.
+Mesh Thread#2
+Rotated Point X: 0.000000, Point Y: 0.000000, Point Z: 0.000000--> Point X: 0.000000,Point Y: 0.000000,Point Z: 0.000000 About the ZX Axis.
+Mesh Thread#1
+Rotated Point X: 0.495364, Point Y: 0.868686, Point Z: 1.000000--> Point X: -0.073979,Point Y: 0.868686,Point Z: 0.868686 About the ZX Axis.
+Mesh Thread#2
+Translated Point X: 0.000000, Point Y: 0.000000, Point Z: 3.000000--> Point X: 0.000000,Point Y: 0.000000,Point Z: 0.000000
+Mesh Thread#7
+Translated Point X: -0.073979, Point Y: 0.868686, Point Z: 4.113513--> Point X: -0.008430,Point Y: 0.105589,Point Z: 0.105589
+Mesh Thread#11
+Rotated Point X: 0.000000, Point Y: 1.000000, Point Z: 0.000000--> Point X: -0.868686,Point Y: 0.495364,Point Z: 0.495364 About the Z Axis.
+Mesh Thread#5
+Rotated Point X: 1.000000, Point Y: 0.000000, Point Z: 0.000000--> Point X: 0.495364,Point Y: 0.868686,Point Z: 0.868686 About the Z Axis.
+Mesh Thread#11
+Rotated Point X: -0.868686, Point Y: 0.495364, Point Z: 0.000000--> Point X: -0.751140,Point Y: 0.495364,Point Z: 0.495364 About the ZX Axis.
+Mesh Thread#1
+Translated Point X: -0.073979, Point Y: 0.868686, Point Z: 4.113513--> Point X: -0.008430,Point Y: 0.105589,Point Z: 0.105589
+Mesh Thread#5
+Rotated Point X: 0.495364, Point Y: 0.868686, Point Z: 0.000000--> Point X: 0.428334,Point Y: 0.868686,Point Z: 0.868686 About the ZX Axis.
+Mesh Thread#11
+Translated Point X: -0.751140, Point Y: 0.495364, Point Z: 2.563648--> Point X: -0.137342,Point Y: 0.096613,Point Z: 0.096613
+Mesh Thread#5
+Translated Point X: 0.428334, Point Y: 0.868686, Point Z: 3.248827--> Point X: 0.061801,Point Y: 0.133692,Point Z: 0.133692
+Mesh Thread#10
+Rotated Point X: 0.000000, Point Y: 1.000000, Point Z: 0.000000--> Point X: -0.868686,Point Y: 0.495364,Point Z: 0.495364 About the Z Axis.
+Mesh Thread#9
+Rotated Point X: 0.000000, Point Y: 0.000000, Point Z: 1.000000--> Point X: 0.000000,Point Y: 0.000000,Point Z: 0.000000 About the Z Axis.
+Mesh Thread#8
+Rotated Point X: 0.000000, Point Y: 0.000000, Point Z: 1.000000--> Point X: 0.000000,Point Y: 0.000000,Point Z: 0.000000 About the Z Axis.
+Mesh Thread#10
+Rotated Point X: -0.868686, Point Y: 0.495364, Point Z: 0.000000--> Point X: -0.751140,Point Y: 0.495364,Point Z: 0.495364 About the ZX Axis.
+Mesh Thread#9
+Rotated Point X: 0.000000, Point Y: 0.000000, Point Z: 1.000000--> Point X: -0.502313,Point Y: 0.000000,Point Z: 0.000000 About the ZX Axis.
+Mesh Thread#8
+Rotated Point X: 0.000000, Point Y: 0.000000, Point Z: 1.000000--> Point X: -0.502313,Point Y: 0.000000,Point Z: 0.000000 About the ZX Axis.
+Mesh Thread#3
+Rotated Point X: 0.000000, Point Y: 0.000000, Point Z: 0.000000--> Point X: 0.000000,Point Y: 0.000000,Point Z: 0.000000 About the Z Axis.
+Mesh Thread#9
+Translated Point X: -0.502313, Point Y: 0.000000, Point Z: 3.864686--> Point X: -0.060926,Point Y: 0.000000,Point Z: 0.000000
+Mesh Thread#8
+Translated Point X: -0.502313, Point Y: 0.000000, Point Z: 3.864686--> Point X: -0.060926,Point Y: 0.000000,Point Z: 0.000000
+Mesh Thread#10
+Translated Point X: -0.751140, Point Y: 0.495364, Point Z: 2.563648--> Point X: -0.137342,Point Y: 0.096613,Point Z: 0.096613
+Mesh Thread#3
+Rotated Point X: 0.000000, Point Y: 0.000000, Point Z: 0.000000--> Point X: 0.000000,Point Y: 0.000000,Point Z: 0.000000 About the ZX Axis.
+Mesh Thread#3
+Translated Point X: 0.000000, Point Y: 0.000000, Point Z: 3.000000--> Point X: 0.000000,Point Y: 0.000000,Point Z: 0.000000
